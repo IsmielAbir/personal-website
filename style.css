@@ -38,7 +38,7 @@ body {
     display: flex;
 }
 
-#ab {
+.ab {
     text-align: center;
     font-size: 50px;
 }
@@ -72,12 +72,16 @@ body {
     border-radius: 25px;
 }
 
-#a5 {
+.a5 {
     padding-left: 15%;
     height: 400px;
-    width: 400px;
+    width: 600px;
 }
 
 .p-right {
     padding-right: 20%;
+}
+
+.a7 {
+    font-size: 30px;
 }
