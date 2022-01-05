@@ -71,3 +71,13 @@ body {
     background-color: antiquewhite;
     border-radius: 25px;
 }
+
+#a5 {
+    padding-left: 15%;
+    height: 400px;
+    width: 400px;
+}
+
+.p-right {
+    padding-right: 20%;
+}
